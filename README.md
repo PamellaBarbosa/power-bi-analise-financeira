@@ -1,11 +1,11 @@
-power-bi-analise-financeira
+# power-bi-analise-financeira
 -> Projeto de um dashboard de Análise Financeira com dados fictícios
 
-detalhes
+# detalhes
 -> Projeto do curso de Microsoft Power Bi para Business Intelligence e Data Science.
 
-tecnologias-usadas
+# tecnologias-usadas
 -> Power Bi, Power Query e Excel.
 
-dataset
+# dataset
 -> Dados fictícios para fins de estudo.
