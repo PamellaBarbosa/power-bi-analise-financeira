@@ -9,3 +9,6 @@
 
 # dataset
 -> Dados fictícios para fins de estudo.
+
+# imagem do dashboard abaixo
+(https://github.com/user-attachments/assets/25224624-fdb2-49eb-bacf-3ad1f5e4aebe)
