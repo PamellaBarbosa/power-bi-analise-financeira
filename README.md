@@ -4,11 +4,6 @@ Projeto de desenvolvimento de um **dashboard de Análise Financeira**, criado co
 
 ---
 
-## 🎯 Objetivo
-Analisar informações financeiras de forma clara e visual, permitindo o acompanhamento de métricas como faturamento, desempenho ao longo do tempo e comparativos entre categorias.
-
----
-
 ## 🧩 Contexto
 Este projeto foi desenvolvido como parte do curso **Microsoft Power BI para Business Intelligence e Data Science**, com o objetivo de aplicar na prática conceitos de modelagem, transformação de dados e criação de dashboards interativos.
 
